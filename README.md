@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Bhuvanesh+Hingal;Security+Engineer+%40+DAZN+Group;Detection+%7C+Response+%7C+Protect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Bhuvanesh+Hingal;Security+Engineer+%40+DAZN;Detection+%7C+Response+%7C+Protect" alt="Typing SVG" />
 </div>
 
 ---
